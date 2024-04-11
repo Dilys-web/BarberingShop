@@ -36,3 +36,8 @@ This output indicates that an ORD customer with the label ORD5 has arrived, and 
 
 - Java Development Kit (JDK) installed on your machine.
 - Java IDE or text editor for viewing and editing the source code.
+
+## Console Output after 20 Simulations
+
+![Console Output1](simulations/barberSimulation.png)
+![Console Output2](simulations/barberSimulation2.png)
