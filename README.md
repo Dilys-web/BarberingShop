@@ -39,5 +39,10 @@ This output indicates that an ORD customer with the label ORD5 has arrived, and 
 
 ## Console Output after 20 Simulations
 
+### Simulation 1
+
 ![Console Output1](simulations/barberSimulation.png)
+
+### Simulation 2
+
 ![Console Output2](simulations/barberSimulation2.png)
