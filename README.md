@@ -54,8 +54,7 @@ The Barbering Shop Simulation project is a console-based Java application that s
 
 After running the simulation for a certain number of events, you can expect to see output similar to the following:
 
-```
-3 -----> ( ++ ORD5 ) [ ORD1 : VIP3 : ORD4 : ORD5 : ---- : ---- ]
+``` 3 -----> ( ++ ORD5 ) [ ORD1 : VIP3 : ORD4 : ORD5 : ---- : ---- ]
 ```
 
 This output indicates that an ORD customer with the label ORD5 has arrived, and the state of the shop is shown with the current seating arrangement.
